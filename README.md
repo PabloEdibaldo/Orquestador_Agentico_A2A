@@ -71,7 +71,3 @@ Ejecutar las pruebas con:
 ```bash
 pytest tests/
 ```
-
-## 🤝 Contribuciones
-
-Si deseas mejorar el enrutamiento de agentes o integrar nuevos sistemas backend (Salesforce, Zendesk), las Pull Requests son bienvenidas.
